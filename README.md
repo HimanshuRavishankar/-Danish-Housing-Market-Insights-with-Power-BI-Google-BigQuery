@@ -1,4 +1,4 @@
-# - 🏠Danish-Housing-Market-Insights-with-Power-BI-Google-BigQuery
+# 🏠Danish-Housing-Market-Insights-with-Power-BI-Google-BigQuery
 
 [Interactive Dashboard](https://project.novypro.com/hL5Wqd)
 
