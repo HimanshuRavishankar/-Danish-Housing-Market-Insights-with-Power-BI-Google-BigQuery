@@ -1,6 +1,6 @@
 # - 🏠Danish-Housing-Market-Insights-with-Power-BI-Google-BigQuery
 
-(Add dashboard link here once published — e.g., Power BI Service or NovyPro)
+[Interactive Dashboard](https://project.novypro.com/hL5Wqd)
 
 ## 📌 Problem Statement
 This project focuses on analyzing Denmark’s real estate transaction data to uncover trends in housing sales, price fluctuations, and regional dynamics. Using data hosted in Google BigQuery, the goal is to explore the market through dynamic Power BI dashboards, drawing actionable insights around pricing, interest rates, and buyer behavior.
